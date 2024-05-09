@@ -1,5 +1,5 @@
 - Sup gang, my name's Leoš
-- I’m a 13y programmer knowing multiple languages and softwares to use
+- I’m a 13y programmer knowing multiple languages and softwares to use basically everywhere which is totally neat
 - My knowledge includes frontend, backend, networking, algorithms (newly terrain generation) and a load of OpenComputers
 
 # Goofs to rise, Goofs to shine!
